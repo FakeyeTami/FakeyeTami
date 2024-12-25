@@ -28,14 +28,21 @@ During my time at Aptech Computer Education, I had the opportunity to serve as a
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,materialui,js,jquery,ts,react,redux,nextjs)](https://skillicons.dev)
 
 **Back-end:**  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,prisma,redis)](https://skillicons.dev)
 
 **Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,webstorm,postman)](https://skillicons.dev)
 
+**Design:**  
+[![My Skills](https://skillicons.dev/icons?i=figma,ai,webflow)](https://skillicons.dev)
+
 ## 🛠️ Learning
 
-I am constantly seeking to enhance my skills and stay updated with the latest technologies.
+I am currently learning;
+
+[![My Skills](https://skillicons.dev/icons?i=vitest,jest,jenkins,docker,linux,aws,ubuntu)](https://skillicons.dev)
+
+
 
 ## Contact Me
 
