@@ -42,18 +42,16 @@ I am currently learning;
 
 [![My Skills](https://skillicons.dev/icons?i=vitest,jest,jenkins,docker,linux,aws,ubuntu)](https://skillicons.dev)
 
-
-
 ## Contact Me
 
 You can reach out to me through my [LinkedIn](https://linkedin.com/in/fakeyetami) or via <a href="mailto:fakeyetami@gmail.com">Email</a>.
 
 ## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fakeyet&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FakeyeTami&layout=compact&theme=radical)
 
-![Fakeye Tamilore's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakeyet&show_icons=true&theme=radical)
+![Fakeye Tamilore's GitHub stats](https://github-readme-stats.vercel.app/api?username=FakeyeTami&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fakeyet&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fakeyetami&theme=radical)]
 
 
 ## 💬 Let's Connect
