@@ -51,7 +51,7 @@ You can reach out to me through my [LinkedIn](https://linkedin.com/in/fakeyetami
 
 ![Fakeye Tamilore's GitHub stats](https://github-readme-stats.vercel.app/api?username=FakeyeTami&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fakeyetami&theme=radical)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fakeyetami&theme=radical)
 
 
 ## 💬 Let's Connect
