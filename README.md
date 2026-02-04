@@ -1,6 +1,6 @@
 # Hi! My name is Fakeye Tamilore 😄
 
-A full-stack developer based in Nigeria. Passion drives me in crafting innovative and user-friendly web applications. My primary focus is on front-end development, where I strive to create stunning user experiences that breathe life into designs.
+A full-stack developer based in the UK. Passion drives me in crafting innovative and user-friendly web applications. My primary focus is on front-end development, where I strive to create stunning user experiences that breathe life into designs.
 
 ## 💻 Skills
 
@@ -16,11 +16,15 @@ Whether collaborating with a team or working autonomously, I am committed to del
 
 ## 🎓 Education & Development
 
-Currently pursuing my bachelor's degree, I am devoted to expanding my knowledge of web development principles and exploring new frameworks and libraries. I eagerly seek opportunities to contribute to exciting projects and collaborate with fellow developers who share my passion.
+### BSc (Hons) Computer Systems Engineering
+**University of Sunderland** <br>
+**Currently studying · Expected graduation: August 2026**
+
+I am currently pursuing a Bachelor’s degree in Computer Systems Engineering, building a strong foundation in software development, computer systems, and engineering principles. Alongside my studies, I actively develop practical skills in web and full-stack development, modern frameworks, and real-world problem solving. I am motivated to contribute to meaningful projects and collaborate with developers who share a passion for building scalable, well-engineered solutions.
 
 ### Aptech Computer Education
 
-During my time at Aptech Computer Education, I had the opportunity to serve as a teacher's assistant and occasionally take on the role of a teacher, instructing over 10 students in various programming and development topics.
+During my time at Aptech Computer Education, I served as a Teacher’s Assistant and occasionally as a Lead Instructor, teaching and mentoring over 10 students in programming and software development fundamentals. This role strengthened my technical communication skills, problem-solving abilities, and experience explaining complex concepts in a clear, practical way.
 
 ## Languages and Tools
 
