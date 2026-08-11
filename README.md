@@ -262,12 +262,11 @@ Author: Tamilore Fakeye <fakeyetami@gmail.com>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FakeyeTami&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060f27&title_color=4770FF&icon_color=4770FF&text_color=a5b8ff&ring_color=4770FF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FakeyeTami&layout=compact&theme=tokyonight&hide_border=true&bg_color=060f27&title_color=4770FF&text_color=a5b8ff" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=FakeyeTami&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060f27&title_color=4770FF&icon_color=4770FF&text_color=a5b8ff&ring_color=4770FF" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FakeyeTami&layout=compact&theme=tokyonight&hide_border=true&bg_color=060f27&title_color=4770FF&text_color=a5b8ff" height="165"/>
 
 <br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=FakeyeTami&theme=tokyonight&hide_border=true&background=060f27&ring=4770FF&fire=4770FF&currStreakLabel=4770FF&sideLabels=a5b8ff&currStreakNum=ffffff&sideNums=ffffff&dates=5574cc" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=FakeyeTami&theme=tokyonight&hide_border=true&background=060f27&ring=4770FF&fire=4770FF&currStreakLabel=4770FF&sideLabels=a5b8ff&currStreakNum=ffffff&sideNums=ffffff&dates=5574cc" width="49%"/>
 
 <br/><br/>
 
