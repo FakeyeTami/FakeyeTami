@@ -268,7 +268,7 @@ Author: Tamilore Fakeye <fakeyetami@gmail.com>
 <br/>
 <img src="https://streak-stats.demolab.com?user=FakeyeTami&theme=tokyonight&hide_border=true&background=060f27&ring=4770FF&fire=4770FF&currStreakLabel=4770FF&sideLabels=a5b8ff&currStreakNum=ffffff&sideNums=ffffff&dates=5574cc" width="49%"/>
 
-<br/><br/>
+<br/>
 
 [![FakeyeTami's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FakeyeTami&bg_color=060f27&color=4770FF&line=4770FF&point=ffffff&area=true&hide_border=true)](https://github.com/FakeyeTami)
 
