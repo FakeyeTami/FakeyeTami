@@ -154,7 +154,7 @@ PostgreSQL data modelling · SQL CTEs · Window functions · Joins · Business K
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-f59e0b?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 
 </td>
 <td width="50%">
