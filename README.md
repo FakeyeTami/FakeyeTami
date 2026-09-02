@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=4770FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Turning+data+into+insight.;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Excel.;BSc+Computer+Systems+Engineering+%C2%B7+2025.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=4770FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Turning+data+into+insight.;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Excel.;First-Class+Hons+Computer+Systems+Engineering+%C2%B7+2025.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,12 +26,11 @@
 Data Analyst based in Sunderland, UK, with a First-Class Honours degree in Computer Systems Engineering from the University of Sunderland. I turn messy, real-world data into clear, business-ready insight — from ETL pipelines and data modelling through to interactive Power BI and SQL-driven reporting.
 
 **Currently:**
-- Building end-to-end SQL & Power BI analytics projects on real public datasets
-- Analysing and modelling data with Python (Pandas, NumPy)
-- Developing business-focused, interactive dashboards
-- Studying data engineering fundamentals (cloud data lakes, orchestration, dbt)
+- Applying Python (Pandas, scikit-learn) to predictive analytics — churn, segmentation, forecasting
+- Developing business-focused, interactive dashboards with Power Query & DAX
+- Studying data engineering fundamentals (BigQuery, cloud data lakes, dbt, orchestration)
 
-**Ask me about:** SQL · Python · Power BI & DAX · Data Modelling · ETL · Business Analytics
+**Ask me about:** SQL · Python · Power BI & DAX · Data Modelling · ETL · Predictive Analytics · Business Intelligence
 
 ---
 
@@ -110,7 +109,7 @@ POS transactions · Online orders · Loyalty programme data · Data cleaning · 
 
 ### 🗂️ More coming
 
-Building out analytics projects across marketing, finance, and business intelligence — expect BigQuery, Power Query, and predictive analytics work here soon.
+Next up: a financial performance dashboard (Power Query & DAX), a customer churn model, and a customer segmentation project — spanning finance, retention, and marketing analytics.
 
 [![GitHub](https://img.shields.io/badge/See%20All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FakeyeTami?tab=repositories)
 
@@ -122,7 +121,7 @@ Building out analytics projects across marketing, finance, and business intellig
 
 ## Experience
 
-**Data & Software Developer** — Freelance, Remote · *Nov 2025 – Present*
+**Data Analyst** — Freelance, Remote · *Nov 2025 – Present*
 - Analysed, cleaned and transformed structured datasets using Python, Pandas and SQL
 - Built data visualisations and reports for non-technical stakeholders
 - Delivered end-to-end projects for clients, from requirements through to delivery
@@ -142,10 +141,6 @@ Building out analytics projects across marketing, finance, and business intellig
 
 | Topic | Where |
 |---|---|
-| SQL · CTEs · Window Functions · Joins | Building PostgreSQL analytics projects |
-| Power BI · DAX · Data Modelling | Business intelligence dashboards |
-| Excel · Pivot Tables · XLOOKUP | Excel Bootcamp & analytics projects |
-| Python · Pandas · NumPy | Cleaning, transforming & analysing datasets |
 | BigQuery · Cloud Data Warehousing | Marketing & finance analytics projects |
 | Data Engineering fundamentals | Data lakes, orchestration, dbt |
 
